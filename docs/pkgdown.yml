@@ -1,0 +1,11 @@
+pandoc: 2.14.0.3
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  GWAS_processing: GWAS_processing.html
+  scRNA-seq_processing: scRNA-seq_processing.html
+  seismicGWAS: seismicGWAS.html
+last_built: 2025-04-28T05:07Z
+urls:
+  reference: https://ylaboratory.github.io/seismic/reference
+  article: https://ylaboratory.github.io/seismic/articles
